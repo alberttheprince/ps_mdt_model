@@ -16,3 +16,7 @@ Then go to client > main.lua
 and change line 9 to ```local tabletProp = `prop_cs_tablet_psmdt` ```
 
 And line 12 to ```local tabletRot = vector3(10.0, 0.0, 0.0)```
+
+Thank you to Bostra in QBox Discord for helping me with file set up!
+
+Please note, the GPL license only applies to the embedded texture of the tablet, not the tablet model/Rockstar asset.
