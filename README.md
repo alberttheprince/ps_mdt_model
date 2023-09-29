@@ -3,7 +3,7 @@
 # ps_mdt_model
 A tablet model reskin for PS-MDT https://github.com/Project-Sloth/ps-mdt
 
-The UI is a "colour neutral," zoomed-in version of the PS-MDT UI to avoid conflicting EMS/LSPD/Sherrif/etc. symbols. This was made because the default prop used by PS-MDT is thematically off, using a tablet with the Life Invader social page.
+The UI is a "department colour neutral," zoomed-in version of the PS-MDT UI to avoid conflicting EMS/LSPD/Sherrif/etc. symbols. This was made because the default prop used by PS-MDT is thematically off, using a tablet with the Life Invader social page.
 
 To install this, put it where you put your stream files and add:
 
